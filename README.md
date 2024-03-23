@@ -31,8 +31,8 @@ Define a region of interest by specifying the desired range of rows and columns 
 
 ## Program:
 
-#### Developed By: ABINAYA S
-#### Register Number: 212222230002
+#### Developed By: Berjin shabeck
+#### Register Number: 212222240018
 ### i)Image Translation
 ```
 import numpy as np
